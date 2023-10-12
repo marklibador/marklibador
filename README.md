@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marklibador/AD-Configuration)
   - [Developing an Understanding of DNS](https://github.com/marklibador/DNS-Intuition)
   - [Establishing Network File Shares and managing Access Permissions](https://github.com/marklibador/N_F_S)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marklibador/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marklibador/Network_Protocols)
 
 <h2>🤳Connect with me:</h2>
 
