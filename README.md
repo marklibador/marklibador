@@ -12,6 +12,8 @@
   - [Developing an Understanding of DNS](https://github.com/marklibador/DNS-Intuition)
   - [Establishing Network File Shares and managing Access Permissions](https://github.com/marklibador/N_F_S)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marklibador/Network_Protocols)
+- <b>Virtual Private Network (VPN)</b>
+- [Setup, Usage, and Explanation of Virtual Private Network (VPN)](https://github.com/marklibador/Create-Resource-Group)
 
 <h2>🤳Connect with me:</h2>
 
