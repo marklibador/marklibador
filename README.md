@@ -3,17 +3,20 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+
   - [osTicket: Prerequisites and Installation](https://github.com/marklibador/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/marklibador/osTicket-PostConfiguration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/marklibador/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
+
   - [Setting up your Active Directory on Azure Virtual Machines](https://github.com/marklibador/Create-Resource-Group)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marklibador/AD-Configuration)
   - [Developing an Understanding of DNS](https://github.com/marklibador/DNS-Intuition)
   - [Establishing Network File Shares and managing Access Permissions](https://github.com/marklibador/N_F_S)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marklibador/Network_Protocols)
 - <b>Virtual Private Network (VPN)</b>
-- [Setup, Usage, and Explanation of Virtual Private Network (VPN)](https://github.com/marklibador/Create-Resource-Group)
+
+  - [Setup, Usage, and Explanation of Virtual Private Network (VPN)](https://github.com/marklibador/Virtual_Private_Network)
 
 <h2>🤳Connect with me:</h2>
 
