@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/marklibador/osTicket-Ticket-Lifecycle-Examples/blob/main/README.md)
 - <b>Microsoft Azure</b>
   - [Setting up your Active Directory on Azure Virtual Machines](https://github.com/marklibador/Create-Resource-Group/blob/main/README.md)
-  - [Configuring On-premises Active Directory within Azure VMs]
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marklibador/AD-Configuration/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marklibador/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
